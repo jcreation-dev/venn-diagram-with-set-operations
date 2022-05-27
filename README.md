@@ -9,3 +9,5 @@ Venn App
 3. Uses Materialize.css
 4. Uses fontawesome-free
 5. Uses JQuery
+
+You can go to the demo in jcreation-dev.github.io/venn-diagram-with-set-operations
